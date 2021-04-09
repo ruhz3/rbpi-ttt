@@ -2,6 +2,10 @@
 #### Socket Game(Tic-Tac-Toe) between Raspberry-Pi
 
 
+![image](https://user-images.githubusercontent.com/26182769/114135869-d7116780-9944-11eb-8117-aac7b3d0a878.png)
+
+
+
 
 ### TIC-TAC-TOE
 - 두 명이 번갈아 가며 O와 X를 3×3 판에 써서,
